@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/Tasks_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/Tasks_C++/cmake-build-debug/CMakeFiles/firstTask.dir
+/home/ilya/CLionProjects/Tasks_C++/cmake-build-debug/CMakeFiles/edit_cache.dir

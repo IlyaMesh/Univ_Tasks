@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/CLionProjects/Tasks_C++/firstTask/main.cpp
+iostream
+-
+string
+-
+mystrchr.h
+/home/ilya/CLionProjects/Tasks_C++/firstTask/mystrchr.h
+
+/home/ilya/CLionProjects/Tasks_C++/firstTask/mystrchr.cpp
+clocale
+-
+
+/home/ilya/CLionProjects/Tasks_C++/firstTask/mystrchr.h
+
