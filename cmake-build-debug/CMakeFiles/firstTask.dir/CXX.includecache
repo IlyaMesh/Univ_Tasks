@@ -11,12 +11,10 @@ iostream
 -
 string
 -
+string.h
+-
 mystrchr.h
 /home/ilya/CLionProjects/Tasks_C++/firstTask/mystrchr.h
-
-/home/ilya/CLionProjects/Tasks_C++/firstTask/mystrchr.cpp
-clocale
--
 
 /home/ilya/CLionProjects/Tasks_C++/firstTask/mystrchr.h
 
